@@ -4,4 +4,6 @@
   > Admin Details
       > User
       > Password
-      
+  > Login user
+      > set group id
+      > give autho/ import authentication
