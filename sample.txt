@@ -1,0 +1,7 @@
+# Banking Project Sample file
+
+> Django Banking Project 
+  > Admin Details
+      > User
+      > Password
+      
