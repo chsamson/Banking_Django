@@ -1,5 +1,5 @@
 ## Learn github
 
--- this is updated as on 13.07.2022
+-- updated on cloud as on 13.07.20222
 
--- no update as of now
+no update from team
